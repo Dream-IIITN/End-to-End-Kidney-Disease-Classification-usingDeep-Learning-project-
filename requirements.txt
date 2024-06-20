@@ -4,6 +4,8 @@ dvc
 mlflow==2.2.2
 notebook
 numpy
+LSTM
+CNN
 matplotlib
 seaborn
 python-box==6.0.2
